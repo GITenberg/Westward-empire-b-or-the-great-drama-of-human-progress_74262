@@ -1,0 +1,36 @@
+_repo: Westward-empire-b-or-the-great-drama-of-human-progress_74262
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Magoon, Elias Lyman
+    alias: Magoon, E. L. (Elias Lyman)
+    birthdate: 1810
+    deathdate: 1886
+    gutenberg_agent_id: '57417'
+    url: http://www.gutenberg.org/2009/agents/57417
+    wikipedia: https://en.wikipedia.org/wiki/Elias_Lyman_Magoon
+description: ''
+gutenberg_issued: '2024-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74262'
+language: en
+pgterms:marc904: https://archive.org/details/westwardempireor01mago
+pgterms:marc905: 20220219090929magoon
+pgterms:marc906: '1856'
+pgterms:marc907: us
+production_note: Peter Becker, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bHarper & Brothers, $c1856.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Western'
+- !lcc 'CB'
+- GITenberg
+tableOfContents: Part 1. Age of Pericles -- Part 2. Age of Augustus -- Part 3. Age
+  of Leo X -- Part 4. Age of Washington.
+title: 'Westward empire : $b or, the great drama of human progress'
+url: http://www.gutenberg.org/ebooks/74262
