@@ -1,5 +1,8 @@
 _repo: Westward-empire-b-or-the-great-drama-of-human-progress_74262
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74262-h/images/cover.jpg
 creator:
   author:
     agent_name: Magoon, Elias Lyman
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57417
     wikipedia: https://en.wikipedia.org/wiki/Elias_Lyman_Magoon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74262#Westward-empire-b-or-the-great-drama-of-human-progress
 gutenberg_issued: '2024-08-15'
 gutenberg_type: Text
 identifiers:
